@@ -18,9 +18,12 @@
 	#a {
 		color: #0f0;
 	}
+	#b {
+		color: #ff0096;
+	}
 	#c {
 		color: #0bc;
 	}
-	#b {
-		color: #ff0096;
+	#link {
+		color: #0bc;
 	}
