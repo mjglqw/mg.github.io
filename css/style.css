@@ -43,3 +43,15 @@ u {
     border-bottom: 1px dotted #000;
     text-decoration: none;
 }
+
+#highlight {
+	color: orange;
+}
+
+.divider {
+	    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
