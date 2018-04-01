@@ -55,3 +55,8 @@ u {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+
+#beer:hover {
+	color: #ffe382 !important;
+}
