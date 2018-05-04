@@ -10,8 +10,9 @@
 		width:800px;
 		margin-left:auto;
 		margin-right:auto;
-		margin-top:20px;
+		margin-bottom:10px;
 		font-size:13px;
+		line-height: 1.6;
 	}
 	a {
 		color: #0bc;

@@ -18,6 +18,14 @@
     background: #555; 
 }
 
+/* adv and disadv */
+.adv {
+	color: #5eff7f;
+}
+
+.disadv {
+	color: #e53b3b;
+}
 
 #header {
 	text-align: center;
