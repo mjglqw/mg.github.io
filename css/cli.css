@@ -7,23 +7,11 @@
 		/*font-family: consolas;*/
 		font-family:Monaco,Menlo,Consolas,"Courier New";
 		color: #fff;
-		width:800px;
+		width:1000px;
 		margin-left:auto;
 		margin-right:auto;
 		margin-bottom:10px;
-		font-size:15px;
-
-		@media screen and (min-width: 601px) {
-		  * {
-		    font-size: 15px;
-		  }
-		}
-
-		@media screen and (min-width: 600px) {
-		  * {
-		    font-size: 13px;
-		  }
-		}
+		font-size:14px;
 
 		line-height: 1.6;
 	}
