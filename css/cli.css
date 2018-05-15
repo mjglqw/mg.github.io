@@ -21,6 +21,13 @@
 		border-bottom: 1px dotted #fff;
    		 text-decoration: none;
 	}
+	a:hover {
+		color: #00eaff;
+	}
+	a:visited {
+		color: #008c99;
+	}
+
 	#a {
 		color: #0f0;
 	}
